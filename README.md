@@ -1,0 +1,1 @@
+A simple GUI calculator for performing valuations of equity investments.
